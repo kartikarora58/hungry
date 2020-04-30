@@ -1,5 +1,5 @@
 @extends('vendor.layouts.vendorApp')
-
+@extends('vendor.layouts.vendor-side')
 @section('content')
     <div class="container">
         <div class="row justify-content-center">
